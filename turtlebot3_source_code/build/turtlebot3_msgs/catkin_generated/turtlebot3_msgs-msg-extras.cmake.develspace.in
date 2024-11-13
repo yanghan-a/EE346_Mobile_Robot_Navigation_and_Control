@@ -1,0 +1,2 @@
+set(turtlebot3_msgs_MESSAGE_FILES "/home/yh/EE346_Mobile_Robot_Navigation_and_Control/turtlebot3_source_code/src/turtlebot3_msgs/msg/SensorState.msg;/home/yh/EE346_Mobile_Robot_Navigation_and_Control/turtlebot3_source_code/src/turtlebot3_msgs/msg/VersionInfo.msg;/home/yh/EE346_Mobile_Robot_Navigation_and_Control/turtlebot3_source_code/src/turtlebot3_msgs/msg/Sound.msg")
+set(turtlebot3_msgs_SERVICE_FILES "")

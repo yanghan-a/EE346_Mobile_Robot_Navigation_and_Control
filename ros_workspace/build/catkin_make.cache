@@ -1,0 +1,2 @@
+beginner_tutorials:lab3
+-DCATKIN_DEVEL_PREFIX=/home/yh/EE346_Mobile_Robot_Navigation_and_Control/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/yh/EE346_Mobile_Robot_Navigation_and_Control/ros_workspace/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yh/EE346_Mobile_Robot_Navigation_and_Control/ros_workspace/devel/setup.sh

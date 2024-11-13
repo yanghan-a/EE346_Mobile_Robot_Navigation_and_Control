@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/yh/EE346_Mobile_Robot_Navigation_and_Control/turtlebot3_source_code/devel/lib/python3/dist-packages",
+        "/home/yh/yolo5_recognition/devel/lib/python3/dist-packages",
+        "/home/yh/camera_calibration/devel/lib/python3/dist-packages",
+        "/home/yh/camera/devel/lib/python3/dist-packages",
+        "/home/yh/kinova_robot/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/yh/EE346_Mobile_Robot_Navigation_and_Control/turtlebot3_source_code/devel/lib/python3/dist-packages",
+        "/home/yh/yolo5_recognition/devel/lib/python3/dist-packages",
+        "/home/yh/camera_calibration/devel/lib/python3/dist-packages",
+        "/home/yh/camera/devel/lib/python3/dist-packages",
+        "/home/yh/kinova_robot/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

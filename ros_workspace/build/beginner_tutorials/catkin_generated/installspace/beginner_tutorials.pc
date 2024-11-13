@@ -1,0 +1,8 @@
+prefix=/home/yh/EE346_Mobile_Robot_Navigation_and_Control/ros_workspace/install
+
+Name: beginner_tutorials
+Description: Description of beginner_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

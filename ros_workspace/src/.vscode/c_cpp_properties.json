@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yh/kinova_robot/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/yh/yolo5_recognition/devel/include/**",
+        "/home/yh/camera_calibration/devel/include/**",
+        "/home/yh/camera/devel/include/**",
+        "/home/yh/camera_calibration/src/aruco_ros/aruco/include/**",
+        "/home/yh/camera_calibration/src/aruco_ros/aruco_ros/include/**",
+        "/home/yh/EE346_Mobile_Robot_Navigation_and_Control/ros_workspace/src/beginner_tutorials/include/**",
+        "/home/yh/yolo5_recognition/src/vision_opencv/cv_bridge/include/**",
+        "/home/yh/kinova_robot/src/ros_kortex/third_party/gazebo-pkgs/gazebo_grasp_plugin/include/**",
+        "/home/yh/kinova_robot/src/ros_kortex/third_party/gazebo-pkgs/gazebo_version_helpers/include/**",
+        "/home/yh/yolo5_recognition/src/vision_opencv/image_geometry/include/**",
+        "/home/yh/kinova_robot/src/ros_kortex/kortex_driver/include/**",
+        "/home/yh/camera/src/realsense-ros/realsense2_camera/include/**",
+        "/home/yh/camera/src/realsense_gazebo_plugin/include/**",
+        "/home/yh/kinova_robot/src/ros_kortex/third_party/roboticsgroup_upatras_gazebo_plugins/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
