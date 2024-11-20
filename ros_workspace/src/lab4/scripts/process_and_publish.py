@@ -93,12 +93,14 @@ def publish_vel(list1,ranges):
     distance = ranges[list1[2]]
 
     print("目标距离",distance)
-    kw = 0.2
-    kl = 0.5
+    kw = 0.05
+    kl = 0.8
     twist = Twist()
 
     print("夹角",list1[1])
-    if list1[1] < 15:
+    # if list1[1] < 25:
+    if distance  > 0.25:
+
         twist.linear.x =  kl*distance # X 轴的线速度
         twist.angular.z = kw*list1[0]  # 绕 Z 轴的角速度
         pub.publish(twist)
