@@ -66,7 +66,7 @@ def process_ranges(ranges):
     # filtered_diff_dict = {k: v for k, v in sorted_diff_dict.items() if v > threshold}
 
     # 获取最大的前5个差分值及其索引
-    top_n = 5  # 选择前5个最大的差分值
+    top_n = 6  # 选择前5个最大的差分值
 
     filtered_diff_dict = {k: sorted_diff_dict[k] for k in list(sorted_diff_dict.keys())[:top_n]}
 

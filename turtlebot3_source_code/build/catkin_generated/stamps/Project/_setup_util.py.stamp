@@ -268,7 +268,7 @@ if __name__ == '__main__':
 
         if not args.local:
             # environment at generation time
-            CMAKE_PREFIX_PATH = r'/home/yh/EE346_Mobile_Robot_Navigation_and_Control/ros_workspace/devel;/home/yh/yolo5_recognition/devel;/home/yh/camera_calibration/devel;/home/yh/camera/devel;/home/yh/kinova_robot/devel;/opt/ros/noetic'.split(';')
+            CMAKE_PREFIX_PATH = r'/home/yh/EE346_Mobile_Robot_Navigation_and_Control/turtlebot3_source_code/devel;/home/yh/EE346_Mobile_Robot_Navigation_and_Control/ros_workspace/devel;/home/yh/yolo5_recognition/devel;/home/yh/camera_calibration/devel;/home/yh/camera/devel;/home/yh/kinova_robot/devel;/opt/ros/noetic'.split(';')
         else:
             # don't consider any other prefix path than this one
             CMAKE_PREFIX_PATH = []
